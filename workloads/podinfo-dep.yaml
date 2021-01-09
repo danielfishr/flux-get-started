@@ -53,7 +53,7 @@ spec:
         - --grpc-port=9999
         - --grpc-service-name=podinfo
         - --level=info
-        - --ui-message='Welcome to Flux!!!111oneone'
+        - --ui-message='Welcome to Flux!'
         - --random-delay=false
         - --random-error=false
         env:
